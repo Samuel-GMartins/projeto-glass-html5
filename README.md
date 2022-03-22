@@ -1,2 +1,5 @@
 # projeto-glass-html5
- Curso em Vídeo - html5/CSS/JavaScript
+ 
+ **Curso feito em HTML5 CSS e JavasScript**
+ 
+Link para o curso: https://www.cursoemvideo.com/curso/html5/
